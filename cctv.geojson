@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "송파구1",
+        "detected": "3"
+      },
       "geometry": {
         "coordinates": [
           127.11181382672493,
@@ -14,7 +17,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "송파구2",
+        "detected": "4"
+      },
       "geometry": {
         "coordinates": [
           127.10365866877703,
@@ -25,7 +31,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "송파구3",
+        "detected": "1"
+      },
       "geometry": {
         "coordinates": [
           127.09488970798628,
@@ -36,7 +45,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "송파구4",
+        "detected": "10"
+      },
       "geometry": {
         "coordinates": [
           127.08399773563593,
@@ -47,7 +59,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "송파구5",
+        "detected": "15"
+      },
       "geometry": {
         "coordinates": [
           127.10983105262187,
@@ -58,7 +73,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "송파구6",
+        "detected": "120"
+      },
       "geometry": {
         "coordinates": [
           127.05463275206642,
